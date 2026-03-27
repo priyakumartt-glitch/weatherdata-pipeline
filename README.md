@@ -1,6 +1,6 @@
 # Weather Data Pipeline
 
-This project is a simple data pipeline where I collected weather data from an API and processed it step by step.
+This project is a data pipeline where I collected weather data from an API and processed it step by step.
 
 The data is handled in three layers:
 
