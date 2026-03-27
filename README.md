@@ -8,8 +8,8 @@ The data is handled in three layers:
 * Silver: Cleaned and structured data
 * Gold: Final data used for analysis
 
-I used Python and PySpark for processing and created a dashboard in Power BI to visualize the results.
+I used Python and PySpark for processing and created a report in Power BI to visualize the results.
 
 The pipeline was also automated using Databricks and Azure Data Factory.
 
-This project  understand how real-world data pipelines work from data collection to visualization.
+This project understand how real-world data pipelines work from data collection to visualization.
